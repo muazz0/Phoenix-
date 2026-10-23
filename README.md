@@ -23,4 +23,4 @@ Muaaj Nadaf
 
 ---
 
-*LifePilot — Your life, organized intelligently.*
+*Phoenix 🐦‍🔥 — Your life, organized intelligently.*
