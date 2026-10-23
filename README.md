@@ -1,6 +1,6 @@
-# LifePilot 🚀
+#Phoenix 🐦‍🔥
 
-**LifePilot** is an AI-powered personal assistant designed to help users organize their daily lives, manage tasks, and improve productivity.
+**Phoenix 🐦‍🔥** is an AI-powered personal assistant designed to help users organize their daily lives, manage tasks, and improve productivity.
 
 ## ✨ Features
 - AI-powered personal assistance
